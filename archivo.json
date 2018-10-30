@@ -1,0 +1,820 @@
+[
+	{
+		"pid" : "0590S",
+		"name" : "Bergaptol",
+		"CAS" : "486-60-2",
+		"structure" : "C<sub>11</sub>H<sub>6</sub>O<sub>4</sub>",
+		"smiles" : "OC1=C2C=CC(=O)OC2=CC2=C1C=CO2",
+		"description" : "[...]",
+		"url" : "https://domain.com/product_page.html",
+		"img" : "https://domain.com/product_page/main_image.png",
+		"pdf_msds" : "https://domain.com/product_page/sds_document.pdf",
+		"synonyms" : [
+			"4-Hydroxypsoralen" ,
+			"5-Hydroxypsoralen"
+		],
+		"packaging" : {
+			"10mg" : 139.00,
+			"25mg" : 242.50
+		},
+		"properties" : {
+			"molecular_weight" : "202.17",
+			"melting_point" : "276-288°C",
+			"boiling_point" : "675°C",
+			"flash_point" : "",
+			"purity" : "≥ 99%"
+		},
+		"safety" : {
+			"p_statements" : [ "P260" , "P262" ],
+			"h_statements" : [ "H302" , "H315" , "H319" , "H335" ],
+			"symbol" : "SGH07",
+			"storage" : "Store at : <+8°C. Store in dry and dark place.",
+			"shipping" : "Ambient temperature"
+		},
+		"other" : {
+			"family" : "Coumarin",
+			"subfamily" : "Furocoumarin",
+			"..." : "..."
+		}
+	}
+	,
+	{
+		"pid" : "0777S",
+		"name" : "Bergaptol",
+		"CAS" : "486-60-2",
+		"structure" : "C<sub>11</sub>H<sub>6</sub>O<sub>4</sub>",
+		"smiles" : "OC1=C2C=CC(=O)OC2=CC2=C1C=CO2",
+		"description" : "[...]",
+		"url" : "https://domain.com/product_page.html",
+		"img" : "https://domain.com/product_page/main_image.png",
+		"pdf_msds" : "https://domain.com/product_page/sds_document.pdf",
+		"synonyms" : [
+			"4-Hydroxypsoralen" ,
+			"5-Hydroxypsoralen"
+		],
+		"packaging" : {
+			"10mg" : 139.00,
+			"25mg" : 242.50
+		},
+		"properties" : {
+			"molecular_weight" : "202.17",
+			"melting_point" : "276-288°C",
+			"boiling_point" : "675°C",
+			"flash_point" : "",
+			"purity" : "≥ 99%"
+		},
+		"safety" : {
+			"p_statements" : [ "P260" , "P262" ],
+			"h_statements" : [ "H302" , "H315" , "H319" , "H335" ],
+			"symbol" : "SGH07",
+			"storage" : "Store at : <+8°C. Store in dry and dark place.",
+			"shipping" : "Ambient temperature"
+		},
+		"other" : {
+			"family" : "Coumarin",
+			"subfamily" : "Furocoumarin",
+			"..." : "..."
+		}
+	}
+	,
+	{
+		"pid" : "0770S",
+		"name" : "Bergaptol",
+		"CAS" : "486-60-2",
+		"structure" : "C<sub>11</sub>H<sub>6</sub>O<sub>4</sub>",
+		"smiles" : "OC1=C2C=CC(=O)OC2=CC2=C1C=CO2",
+		"description" : "[...]",
+		"url" : "https://domain.com/product_page.html",
+		"img" : "https://domain.com/product_page/main_image.png",
+		"pdf_msds" : "https://domain.com/product_page/sds_document.pdf",
+		"synonyms" : [
+			"4-Hydroxypsoralen" ,
+			"5-Hydroxypsoralen"
+		],
+		"packaging" : {
+			"10mg" : 139.00,
+			"25mg" : 242.50
+		},
+		"properties" : {
+			"molecular_weight" : "202.17",
+			"melting_point" : "276-288°C",
+			"boiling_point" : "675°C",
+			"flash_point" : "",
+			"purity" : "≥ 99%"
+		},
+		"safety" : {
+			"p_statements" : [ "P260" , "P262" ],
+			"h_statements" : [ "H302" , "H315" , "H319" , "H335" ],
+			"symbol" : "SGH07",
+			"storage" : "Store at : <+8°C. Store in dry and dark place.",
+			"shipping" : "Ambient temperature"
+		},
+		"other" : {
+			"family" : "Coumarin",
+			"subfamily" : "Furocoumarin",
+			"..." : "..."
+		}
+	}
+	,
+	{
+		"pid" : "0590S",
+		"name" : "Bergaptol",
+		"CAS" : "486-60-2",
+		"structure" : "C<sub>11</sub>H<sub>6</sub>O<sub>4</sub>",
+		"smiles" : "OC1=C2C=CC(=O)OC2=CC2=C1C=CO2",
+		"description" : "[...]",
+		"url" : "https://domain.com/product_page.html",
+		"img" : "https://domain.com/product_page/main_image.png",
+		"pdf_msds" : "https://domain.com/product_page/sds_document.pdf",
+		"synonyms" : [
+			"4-Hydroxypsoralen" ,
+			"5-Hydroxypsoralen"
+		],
+		"packaging" : {
+			"10mg" : 139.00,
+			"25mg" : 242.50
+		},
+		"properties" : {
+			"molecular_weight" : "202.17",
+			"melting_point" : "276-288°C",
+			"boiling_point" : "675°C",
+			"flash_point" : "",
+			"purity" : "≥ 99%"
+		},
+		"safety" : {
+			"p_statements" : [ "P260" , "P262" ],
+			"h_statements" : [ "H302" , "H315" , "H319" , "H335" ],
+			"symbol" : "SGH07",
+			"storage" : "Store at : <+8°C. Store in dry and dark place.",
+			"shipping" : "Ambient temperature"
+		},
+		"other" : {
+			"family" : "Coumarin",
+			"subfamily" : "Furocoumarin",
+			"..." : "..."
+		}
+	}
+	,
+	{
+		"pid" : "0777S",
+		"name" : "Bergaptol",
+		"CAS" : "486-60-2",
+		"structure" : "C<sub>11</sub>H<sub>6</sub>O<sub>4</sub>",
+		"smiles" : "OC1=C2C=CC(=O)OC2=CC2=C1C=CO2",
+		"description" : "[...]",
+		"url" : "https://domain.com/product_page.html",
+		"img" : "https://domain.com/product_page/main_image.png",
+		"pdf_msds" : "https://domain.com/product_page/sds_document.pdf",
+		"synonyms" : [
+			"4-Hydroxypsoralen" ,
+			"5-Hydroxypsoralen"
+		],
+		"packaging" : {
+			"10mg" : 139.00,
+			"25mg" : 242.50
+		},
+		"properties" : {
+			"molecular_weight" : "202.17",
+			"melting_point" : "276-288°C",
+			"boiling_point" : "675°C",
+			"flash_point" : "",
+			"purity" : "≥ 99%"
+		},
+		"safety" : {
+			"p_statements" : [ "P260" , "P262" ],
+			"h_statements" : [ "H302" , "H315" , "H319" , "H335" ],
+			"symbol" : "SGH07",
+			"storage" : "Store at : <+8°C. Store in dry and dark place.",
+			"shipping" : "Ambient temperature"
+		},
+		"other" : {
+			"family" : "Coumarin",
+			"subfamily" : "Furocoumarin",
+			"..." : "..."
+		}
+	}
+	,
+	{
+		"pid" : "0770S",
+		"name" : "Bergaptol",
+		"CAS" : "486-60-2",
+		"structure" : "C<sub>11</sub>H<sub>6</sub>O<sub>4</sub>",
+		"smiles" : "OC1=C2C=CC(=O)OC2=CC2=C1C=CO2",
+		"description" : "[...]",
+		"url" : "https://domain.com/product_page.html",
+		"img" : "https://domain.com/product_page/main_image.png",
+		"pdf_msds" : "https://domain.com/product_page/sds_document.pdf",
+		"synonyms" : [
+			"4-Hydroxypsoralen" ,
+			"5-Hydroxypsoralen"
+		],
+		"packaging" : {
+			"10mg" : 139.00,
+			"25mg" : 242.50
+		},
+		"properties" : {
+			"molecular_weight" : "202.17",
+			"melting_point" : "276-288°C",
+			"boiling_point" : "675°C",
+			"flash_point" : "",
+			"purity" : "≥ 99%"
+		},
+		"safety" : {
+			"p_statements" : [ "P260" , "P262" ],
+			"h_statements" : [ "H302" , "H315" , "H319" , "H335" ],
+			"symbol" : "SGH07",
+			"storage" : "Store at : <+8°C. Store in dry and dark place.",
+			"shipping" : "Ambient temperature"
+		},
+		"other" : {
+			"family" : "Coumarin",
+			"subfamily" : "Furocoumarin",
+			"..." : "..."
+		}
+	}
+	,
+	{
+		"pid" : "0590S",
+		"name" : "Bergaptol",
+		"CAS" : "486-60-2",
+		"structure" : "C<sub>11</sub>H<sub>6</sub>O<sub>4</sub>",
+		"smiles" : "OC1=C2C=CC(=O)OC2=CC2=C1C=CO2",
+		"description" : "[...]",
+		"url" : "https://domain.com/product_page.html",
+		"img" : "https://domain.com/product_page/main_image.png",
+		"pdf_msds" : "https://domain.com/product_page/sds_document.pdf",
+		"synonyms" : [
+			"4-Hydroxypsoralen" ,
+			"5-Hydroxypsoralen"
+		],
+		"packaging" : {
+			"10mg" : 139.00,
+			"25mg" : 242.50
+		},
+		"properties" : {
+			"molecular_weight" : "202.17",
+			"melting_point" : "276-288°C",
+			"boiling_point" : "675°C",
+			"flash_point" : "",
+			"purity" : "≥ 99%"
+		},
+		"safety" : {
+			"p_statements" : [ "P260" , "P262" ],
+			"h_statements" : [ "H302" , "H315" , "H319" , "H335" ],
+			"symbol" : "SGH07",
+			"storage" : "Store at : <+8°C. Store in dry and dark place.",
+			"shipping" : "Ambient temperature"
+		},
+		"other" : {
+			"family" : "Coumarin",
+			"subfamily" : "Furocoumarin",
+			"..." : "..."
+		}
+	}
+	,
+	{
+		"pid" : "0777S",
+		"name" : "Bergaptol",
+		"CAS" : "486-60-2",
+		"structure" : "C<sub>11</sub>H<sub>6</sub>O<sub>4</sub>",
+		"smiles" : "OC1=C2C=CC(=O)OC2=CC2=C1C=CO2",
+		"description" : "[...]",
+		"url" : "https://domain.com/product_page.html",
+		"img" : "https://domain.com/product_page/main_image.png",
+		"pdf_msds" : "https://domain.com/product_page/sds_document.pdf",
+		"synonyms" : [
+			"4-Hydroxypsoralen" ,
+			"5-Hydroxypsoralen"
+		],
+		"packaging" : {
+			"10mg" : 139.00,
+			"25mg" : 242.50
+		},
+		"properties" : {
+			"molecular_weight" : "202.17",
+			"melting_point" : "276-288°C",
+			"boiling_point" : "675°C",
+			"flash_point" : "",
+			"purity" : "≥ 99%"
+		},
+		"safety" : {
+			"p_statements" : [ "P260" , "P262" ],
+			"h_statements" : [ "H302" , "H315" , "H319" , "H335" ],
+			"symbol" : "SGH07",
+			"storage" : "Store at : <+8°C. Store in dry and dark place.",
+			"shipping" : "Ambient temperature"
+		},
+		"other" : {
+			"family" : "Coumarin",
+			"subfamily" : "Furocoumarin",
+			"..." : "..."
+		}
+	}
+	,
+	{
+		"pid" : "0770S",
+		"name" : "Bergaptol",
+		"CAS" : "486-60-2",
+		"structure" : "C<sub>11</sub>H<sub>6</sub>O<sub>4</sub>",
+		"smiles" : "OC1=C2C=CC(=O)OC2=CC2=C1C=CO2",
+		"description" : "[...]",
+		"url" : "https://domain.com/product_page.html",
+		"img" : "https://domain.com/product_page/main_image.png",
+		"pdf_msds" : "https://domain.com/product_page/sds_document.pdf",
+		"synonyms" : [
+			"4-Hydroxypsoralen" ,
+			"5-Hydroxypsoralen"
+		],
+		"packaging" : {
+			"10mg" : 139.00,
+			"25mg" : 242.50
+		},
+		"properties" : {
+			"molecular_weight" : "202.17",
+			"melting_point" : "276-288°C",
+			"boiling_point" : "675°C",
+			"flash_point" : "",
+			"purity" : "≥ 99%"
+		},
+		"safety" : {
+			"p_statements" : [ "P260" , "P262" ],
+			"h_statements" : [ "H302" , "H315" , "H319" , "H335" ],
+			"symbol" : "SGH07",
+			"storage" : "Store at : <+8°C. Store in dry and dark place.",
+			"shipping" : "Ambient temperature"
+		},
+		"other" : {
+			"family" : "Coumarin",
+			"subfamily" : "Furocoumarin",
+			"..." : "..."
+		}
+	}
+	,
+	{
+		"pid" : "0590S",
+		"name" : "Bergaptol",
+		"CAS" : "486-60-2",
+		"structure" : "C<sub>11</sub>H<sub>6</sub>O<sub>4</sub>",
+		"smiles" : "OC1=C2C=CC(=O)OC2=CC2=C1C=CO2",
+		"description" : "[...]",
+		"url" : "https://domain.com/product_page.html",
+		"img" : "https://domain.com/product_page/main_image.png",
+		"pdf_msds" : "https://domain.com/product_page/sds_document.pdf",
+		"synonyms" : [
+			"4-Hydroxypsoralen" ,
+			"5-Hydroxypsoralen"
+		],
+		"packaging" : {
+			"10mg" : 139.00,
+			"25mg" : 242.50
+		},
+		"properties" : {
+			"molecular_weight" : "202.17",
+			"melting_point" : "276-288°C",
+			"boiling_point" : "675°C",
+			"flash_point" : "",
+			"purity" : "≥ 99%"
+		},
+		"safety" : {
+			"p_statements" : [ "P260" , "P262" ],
+			"h_statements" : [ "H302" , "H315" , "H319" , "H335" ],
+			"symbol" : "SGH07",
+			"storage" : "Store at : <+8°C. Store in dry and dark place.",
+			"shipping" : "Ambient temperature"
+		},
+		"other" : {
+			"family" : "Coumarin",
+			"subfamily" : "Furocoumarin",
+			"..." : "..."
+		}
+	}
+	,
+	{
+		"pid" : "0777S",
+		"name" : "Bergaptol",
+		"CAS" : "486-60-2",
+		"structure" : "C<sub>11</sub>H<sub>6</sub>O<sub>4</sub>",
+		"smiles" : "OC1=C2C=CC(=O)OC2=CC2=C1C=CO2",
+		"description" : "[...]",
+		"url" : "https://domain.com/product_page.html",
+		"img" : "https://domain.com/product_page/main_image.png",
+		"pdf_msds" : "https://domain.com/product_page/sds_document.pdf",
+		"synonyms" : [
+			"4-Hydroxypsoralen" ,
+			"5-Hydroxypsoralen"
+		],
+		"packaging" : {
+			"10mg" : 139.00,
+			"25mg" : 242.50
+		},
+		"properties" : {
+			"molecular_weight" : "202.17",
+			"melting_point" : "276-288°C",
+			"boiling_point" : "675°C",
+			"flash_point" : "",
+			"purity" : "≥ 99%"
+		},
+		"safety" : {
+			"p_statements" : [ "P260" , "P262" ],
+			"h_statements" : [ "H302" , "H315" , "H319" , "H335" ],
+			"symbol" : "SGH07",
+			"storage" : "Store at : <+8°C. Store in dry and dark place.",
+			"shipping" : "Ambient temperature"
+		},
+		"other" : {
+			"family" : "Coumarin",
+			"subfamily" : "Furocoumarin",
+			"..." : "..."
+		}
+	}
+	,
+	{
+		"pid" : "0770S",
+		"name" : "Bergaptol",
+		"CAS" : "486-60-2",
+		"structure" : "C<sub>11</sub>H<sub>6</sub>O<sub>4</sub>",
+		"smiles" : "OC1=C2C=CC(=O)OC2=CC2=C1C=CO2",
+		"description" : "[...]",
+		"url" : "https://domain.com/product_page.html",
+		"img" : "https://domain.com/product_page/main_image.png",
+		"pdf_msds" : "https://domain.com/product_page/sds_document.pdf",
+		"synonyms" : [
+			"4-Hydroxypsoralen" ,
+			"5-Hydroxypsoralen"
+		],
+		"packaging" : {
+			"10mg" : 139.00,
+			"25mg" : 242.50
+		},
+		"properties" : {
+			"molecular_weight" : "202.17",
+			"melting_point" : "276-288°C",
+			"boiling_point" : "675°C",
+			"flash_point" : "",
+			"purity" : "≥ 99%"
+		},
+		"safety" : {
+			"p_statements" : [ "P260" , "P262" ],
+			"h_statements" : [ "H302" , "H315" , "H319" , "H335" ],
+			"symbol" : "SGH07",
+			"storage" : "Store at : <+8°C. Store in dry and dark place.",
+			"shipping" : "Ambient temperature"
+		},
+		"other" : {
+			"family" : "Coumarin",
+			"subfamily" : "Furocoumarin",
+			"..." : "..."
+		}
+	}
+	,
+	{
+		"pid" : "0590S",
+		"name" : "Bergaptol",
+		"CAS" : "486-60-2",
+		"structure" : "C<sub>11</sub>H<sub>6</sub>O<sub>4</sub>",
+		"smiles" : "OC1=C2C=CC(=O)OC2=CC2=C1C=CO2",
+		"description" : "[...]",
+		"url" : "https://domain.com/product_page.html",
+		"img" : "https://domain.com/product_page/main_image.png",
+		"pdf_msds" : "https://domain.com/product_page/sds_document.pdf",
+		"synonyms" : [
+			"4-Hydroxypsoralen" ,
+			"5-Hydroxypsoralen"
+		],
+		"packaging" : {
+			"10mg" : 139.00,
+			"25mg" : 242.50
+		},
+		"properties" : {
+			"molecular_weight" : "202.17",
+			"melting_point" : "276-288°C",
+			"boiling_point" : "675°C",
+			"flash_point" : "",
+			"purity" : "≥ 99%"
+		},
+		"safety" : {
+			"p_statements" : [ "P260" , "P262" ],
+			"h_statements" : [ "H302" , "H315" , "H319" , "H335" ],
+			"symbol" : "SGH07",
+			"storage" : "Store at : <+8°C. Store in dry and dark place.",
+			"shipping" : "Ambient temperature"
+		},
+		"other" : {
+			"family" : "Coumarin",
+			"subfamily" : "Furocoumarin",
+			"..." : "..."
+		}
+	}
+	,
+	{
+		"pid" : "0777S",
+		"name" : "Bergaptol",
+		"CAS" : "486-60-2",
+		"structure" : "C<sub>11</sub>H<sub>6</sub>O<sub>4</sub>",
+		"smiles" : "OC1=C2C=CC(=O)OC2=CC2=C1C=CO2",
+		"description" : "[...]",
+		"url" : "https://domain.com/product_page.html",
+		"img" : "https://domain.com/product_page/main_image.png",
+		"pdf_msds" : "https://domain.com/product_page/sds_document.pdf",
+		"synonyms" : [
+			"4-Hydroxypsoralen" ,
+			"5-Hydroxypsoralen"
+		],
+		"packaging" : {
+			"10mg" : 139.00,
+			"25mg" : 242.50
+		},
+		"properties" : {
+			"molecular_weight" : "202.17",
+			"melting_point" : "276-288°C",
+			"boiling_point" : "675°C",
+			"flash_point" : "",
+			"purity" : "≥ 99%"
+		},
+		"safety" : {
+			"p_statements" : [ "P260" , "P262" ],
+			"h_statements" : [ "H302" , "H315" , "H319" , "H335" ],
+			"symbol" : "SGH07",
+			"storage" : "Store at : <+8°C. Store in dry and dark place.",
+			"shipping" : "Ambient temperature"
+		},
+		"other" : {
+			"family" : "Coumarin",
+			"subfamily" : "Furocoumarin",
+			"..." : "..."
+		}
+	}
+	,
+	{
+		"pid" : "0770S",
+		"name" : "Bergaptol",
+		"CAS" : "486-60-2",
+		"structure" : "C<sub>11</sub>H<sub>6</sub>O<sub>4</sub>",
+		"smiles" : "OC1=C2C=CC(=O)OC2=CC2=C1C=CO2",
+		"description" : "[...]",
+		"url" : "https://domain.com/product_page.html",
+		"img" : "https://domain.com/product_page/main_image.png",
+		"pdf_msds" : "https://domain.com/product_page/sds_document.pdf",
+		"synonyms" : [
+			"4-Hydroxypsoralen" ,
+			"5-Hydroxypsoralen"
+		],
+		"packaging" : {
+			"10mg" : 139.00,
+			"25mg" : 242.50
+		},
+		"properties" : {
+			"molecular_weight" : "202.17",
+			"melting_point" : "276-288°C",
+			"boiling_point" : "675°C",
+			"flash_point" : "",
+			"purity" : "≥ 99%"
+		},
+		"safety" : {
+			"p_statements" : [ "P260" , "P262" ],
+			"h_statements" : [ "H302" , "H315" , "H319" , "H335" ],
+			"symbol" : "SGH07",
+			"storage" : "Store at : <+8°C. Store in dry and dark place.",
+			"shipping" : "Ambient temperature"
+		},
+		"other" : {
+			"family" : "Coumarin",
+			"subfamily" : "Furocoumarin",
+			"..." : "..."
+		}
+	}
+	,
+	{
+		"pid" : "0590S",
+		"name" : "Bergaptol",
+		"CAS" : "486-60-2",
+		"structure" : "C<sub>11</sub>H<sub>6</sub>O<sub>4</sub>",
+		"smiles" : "OC1=C2C=CC(=O)OC2=CC2=C1C=CO2",
+		"description" : "[...]",
+		"url" : "https://domain.com/product_page.html",
+		"img" : "https://domain.com/product_page/main_image.png",
+		"pdf_msds" : "https://domain.com/product_page/sds_document.pdf",
+		"synonyms" : [
+			"4-Hydroxypsoralen" ,
+			"5-Hydroxypsoralen"
+		],
+		"packaging" : {
+			"10mg" : 139.00,
+			"25mg" : 242.50
+		},
+		"properties" : {
+			"molecular_weight" : "202.17",
+			"melting_point" : "276-288°C",
+			"boiling_point" : "675°C",
+			"flash_point" : "",
+			"purity" : "≥ 99%"
+		},
+		"safety" : {
+			"p_statements" : [ "P260" , "P262" ],
+			"h_statements" : [ "H302" , "H315" , "H319" , "H335" ],
+			"symbol" : "SGH07",
+			"storage" : "Store at : <+8°C. Store in dry and dark place.",
+			"shipping" : "Ambient temperature"
+		},
+		"other" : {
+			"family" : "Coumarin",
+			"subfamily" : "Furocoumarin",
+			"..." : "..."
+		}
+	}
+	,
+	{
+		"pid" : "0777S",
+		"name" : "Bergaptol",
+		"CAS" : "486-60-2",
+		"structure" : "C<sub>11</sub>H<sub>6</sub>O<sub>4</sub>",
+		"smiles" : "OC1=C2C=CC(=O)OC2=CC2=C1C=CO2",
+		"description" : "[...]",
+		"url" : "https://domain.com/product_page.html",
+		"img" : "https://domain.com/product_page/main_image.png",
+		"pdf_msds" : "https://domain.com/product_page/sds_document.pdf",
+		"synonyms" : [
+			"4-Hydroxypsoralen" ,
+			"5-Hydroxypsoralen"
+		],
+		"packaging" : {
+			"10mg" : 139.00,
+			"25mg" : 242.50
+		},
+		"properties" : {
+			"molecular_weight" : "202.17",
+			"melting_point" : "276-288°C",
+			"boiling_point" : "675°C",
+			"flash_point" : "",
+			"purity" : "≥ 99%"
+		},
+		"safety" : {
+			"p_statements" : [ "P260" , "P262" ],
+			"h_statements" : [ "H302" , "H315" , "H319" , "H335" ],
+			"symbol" : "SGH07",
+			"storage" : "Store at : <+8°C. Store in dry and dark place.",
+			"shipping" : "Ambient temperature"
+		},
+		"other" : {
+			"family" : "Coumarin",
+			"subfamily" : "Furocoumarin",
+			"..." : "..."
+		}
+	}
+	,
+	{
+		"pid" : "0770S",
+		"name" : "Bergaptol",
+		"CAS" : "486-60-2",
+		"structure" : "C<sub>11</sub>H<sub>6</sub>O<sub>4</sub>",
+		"smiles" : "OC1=C2C=CC(=O)OC2=CC2=C1C=CO2",
+		"description" : "[...]",
+		"url" : "https://domain.com/product_page.html",
+		"img" : "https://domain.com/product_page/main_image.png",
+		"pdf_msds" : "https://domain.com/product_page/sds_document.pdf",
+		"synonyms" : [
+			"4-Hydroxypsoralen" ,
+			"5-Hydroxypsoralen"
+		],
+		"packaging" : {
+			"10mg" : 139.00,
+			"25mg" : 242.50
+		},
+		"properties" : {
+			"molecular_weight" : "202.17",
+			"melting_point" : "276-288°C",
+			"boiling_point" : "675°C",
+			"flash_point" : "",
+			"purity" : "≥ 99%"
+		},
+		"safety" : {
+			"p_statements" : [ "P260" , "P262" ],
+			"h_statements" : [ "H302" , "H315" , "H319" , "H335" ],
+			"symbol" : "SGH07",
+			"storage" : "Store at : <+8°C. Store in dry and dark place.",
+			"shipping" : "Ambient temperature"
+		},
+		"other" : {
+			"family" : "Coumarin",
+			"subfamily" : "Furocoumarin",
+			"..." : "..."
+		}
+	}
+	,
+	{
+		"pid" : "0590S",
+		"name" : "Bergaptol",
+		"CAS" : "486-60-2",
+		"structure" : "C<sub>11</sub>H<sub>6</sub>O<sub>4</sub>",
+		"smiles" : "OC1=C2C=CC(=O)OC2=CC2=C1C=CO2",
+		"description" : "[...]",
+		"url" : "https://domain.com/product_page.html",
+		"img" : "https://domain.com/product_page/main_image.png",
+		"pdf_msds" : "https://domain.com/product_page/sds_document.pdf",
+		"synonyms" : [
+			"4-Hydroxypsoralen" ,
+			"5-Hydroxypsoralen"
+		],
+		"packaging" : {
+			"10mg" : 139.00,
+			"25mg" : 242.50
+		},
+		"properties" : {
+			"molecular_weight" : "202.17",
+			"melting_point" : "276-288°C",
+			"boiling_point" : "675°C",
+			"flash_point" : "",
+			"purity" : "≥ 99%"
+		},
+		"safety" : {
+			"p_statements" : [ "P260" , "P262" ],
+			"h_statements" : [ "H302" , "H315" , "H319" , "H335" ],
+			"symbol" : "SGH07",
+			"storage" : "Store at : <+8°C. Store in dry and dark place.",
+			"shipping" : "Ambient temperature"
+		},
+		"other" : {
+			"family" : "Coumarin",
+			"subfamily" : "Furocoumarin",
+			"..." : "..."
+		}
+	}
+	,
+	{
+		"pid" : "0777S",
+		"name" : "Bergaptol",
+		"CAS" : "486-60-2",
+		"structure" : "C<sub>11</sub>H<sub>6</sub>O<sub>4</sub>",
+		"smiles" : "OC1=C2C=CC(=O)OC2=CC2=C1C=CO2",
+		"description" : "[...]",
+		"url" : "https://domain.com/product_page.html",
+		"img" : "https://domain.com/product_page/main_image.png",
+		"pdf_msds" : "https://domain.com/product_page/sds_document.pdf",
+		"synonyms" : [
+			"4-Hydroxypsoralen" ,
+			"5-Hydroxypsoralen"
+		],
+		"packaging" : {
+			"10mg" : 139.00,
+			"25mg" : 242.50
+		},
+		"properties" : {
+			"molecular_weight" : "202.17",
+			"melting_point" : "276-288°C",
+			"boiling_point" : "675°C",
+			"flash_point" : "",
+			"purity" : "≥ 99%"
+		},
+		"safety" : {
+			"p_statements" : [ "P260" , "P262" ],
+			"h_statements" : [ "H302" , "H315" , "H319" , "H335" ],
+			"symbol" : "SGH07",
+			"storage" : "Store at : <+8°C. Store in dry and dark place.",
+			"shipping" : "Ambient temperature"
+		},
+		"other" : {
+			"family" : "Coumarin",
+			"subfamily" : "Furocoumarin",
+			"..." : "..."
+		}
+	}
+	,
+	{
+		"pid" : "0770S",
+		"name" : "Bergaptol",
+		"CAS" : "486-60-2",
+		"structure" : "C<sub>11</sub>H<sub>6</sub>O<sub>4</sub>",
+		"smiles" : "OC1=C2C=CC(=O)OC2=CC2=C1C=CO2",
+		"description" : "[...]",
+		"url" : "https://domain.com/product_page.html",
+		"img" : "https://domain.com/product_page/main_image.png",
+		"pdf_msds" : "https://domain.com/product_page/sds_document.pdf",
+		"synonyms" : [
+			"4-Hydroxypsoralen" ,
+			"5-Hydroxypsoralen"
+		],
+		"packaging" : {
+			"10mg" : 139.00,
+			"25mg" : 242.50
+		},
+		"properties" : {
+			"molecular_weight" : "202.17",
+			"melting_point" : "276-288°C",
+			"boiling_point" : "675°C",
+			"flash_point" : "",
+			"purity" : "≥ 99%"
+		},
+		"safety" : {
+			"p_statements" : [ "P260" , "P262" ],
+			"h_statements" : [ "H302" , "H315" , "H319" , "H335" ],
+			"symbol" : "SGH07",
+			"storage" : "Store at : <+8°C. Store in dry and dark place.",
+			"shipping" : "Ambient temperature"
+		},
+		"other" : {
+			"family" : "Coumarin",
+			"subfamily" : "Furocoumarin",
+			"..." : "..."
+		}
+	}
+]
